@@ -1,5 +1,4 @@
 # Two-Wheeled-Self-Balancing-Bot
-# Intro-to-RL-2021
 Resources and Assignments for Two-Wheeled-Self-Balancing-Bot, Semester Project 2021
 
 ## General Instructions
